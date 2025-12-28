@@ -32,6 +32,7 @@ Claim distribution remained balanced across coverage zones, indicating geographi
 Dynamic KPI selection enabled quick comparison of claim metrics across different dimensions.
 
 ## Dashboard
+<img width="1258" height="747" alt="Insurance Risk   Claim Analysis" src="https://github.com/user-attachments/assets/e52aa714-baf1-4323-908e-e63cdeff5f68" />
 
 
 
