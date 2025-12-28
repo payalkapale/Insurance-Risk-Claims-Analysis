@@ -1,6 +1,6 @@
 # Insurance-Risk-Claims-Analysis
 
-📌 Project Overview
+#📌 Project Overview
 
 This project focuses on analyzing insurance risk and claims data for an automotive insurance portfolio using Power BI.
 The dashboard provides a consolidated view of claim behavior across 37,542 policies with a total claim value of $187.8M, enabling identification of high-risk segments based on vehicle characteristics and customer demographics.
